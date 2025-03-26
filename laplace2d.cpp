@@ -13,7 +13,7 @@ int main(int argc, const char** argv)
   //Size along x
   int imax = 4096;
   //Size along x
-  int iter_max = 100;
+  int iter_max = 300;
 
   double pi  = 2.0 * asin(1.0);
   const double tol = 1.0e-6;
